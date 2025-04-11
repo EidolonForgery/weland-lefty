@@ -718,8 +718,8 @@ namespace Weland {
 	    case Gdk.Key.Z:
 		zoomButton.Active = true;
 		break;
-	    case Gdk.Key.l:
-	    case Gdk.Key.L:
+	    case Gdk.Key.s:
+	    case Gdk.Key.S:
 		lineButton.Active = true;
 		break;
 	    case Gdk.Key.f:
